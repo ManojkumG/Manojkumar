@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gopaganimanojkumar8@gmail.com**
 
-- ⚡ Fun fact **avJavaScript was created in just 10 days! 🧑‍💻**
+- ⚡ Fun fact **JavaScript was created in just 10 days! 🧑‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
